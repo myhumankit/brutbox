@@ -1,4 +1,7 @@
 # brutbox
+![proto](https://img.shields.io/badge/proto-en%20cours-orange.svg "proto")
+![doc](https://img.shields.io/badge/doc-en%20cours-orange.svg "doc")
+
 C’est un projet collaboratif et évolutif de mallette musicale interactive à destination de personne en situation de handicap.
 
 ![featured_image](images/mhk_logotype.png)
