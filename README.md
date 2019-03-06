@@ -4,7 +4,7 @@
 
 C’est un projet collaboratif et évolutif de mallette musicale interactive à destination de personne en situation de handicap.
 
-![featured_image](images/mhk_logotype.png)
+![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/brutbox)
